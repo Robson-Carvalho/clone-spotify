@@ -9,8 +9,16 @@
 
 <br>
 
+## 🔍Views
 
-### 🎲 Rodando o projeto
+ <img style="border-radius: 10px;" src="https://github.com/Robson-Carvalho/Clone-Spotify/blob/main/pictures/header.png?raw=true" width="auto;" alt=""/>
+
+ <img  style="border-radius: 10px;" src="https://github.com/Robson-Carvalho/Clone-Spotify/blob/main/pictures/footer.png?raw=true" width="auto;" alt=""/>
+
+
+<br>
+
+## 🎲 Rodando o projeto
 
 ```bash
 # Clone este repositório
@@ -24,7 +32,7 @@ $ cd start index.html
 ```
 <br>
 
-### 🛠 Tecnologias
+## 🛠 Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
@@ -33,7 +41,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [GIT](https://git-scm.com/)
 
 
-### Autor
+## Autor
 ---
 
 <a href="https://blog.rocketseat.com.br/author/thiago/">
